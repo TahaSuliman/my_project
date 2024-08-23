@@ -3,4 +3,6 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
     color: chartreuse;
+    align-content: center;
+    text-align: center;
 }
